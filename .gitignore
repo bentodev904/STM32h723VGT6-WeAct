@@ -53,3 +53,14 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# STM32CubeIDE
+Debug/
+Release/
+.metadata/
+
+# Firmware compilado
+*.elf
+*.bin
+*.hex
+*.map
